@@ -1,0 +1,6 @@
+This project required to make traffic control system in 3 modes, namely:
+1. regular mode
+2. night mode
+3. pedestrian mode
+
+the circuit was designed on proteus.

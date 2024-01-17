@@ -1,0 +1,17 @@
+1 Arduino UNO
+
+3 LEDs
+
+1 LDR
+
+1 10K Resisitor
+
+1 Buzzer
+
+1 Ultrasonic Sensor
+
+1 Button
+
+1 5v Battery
+
+1 Vero Board (Bread Board Pattern)
